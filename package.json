@@ -1,0 +1,15 @@
+{
+  "name": "image-resizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sachinda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachinda123/image-resizer/issues"
+  },
+  "homepage": "https://github.com/sachinda123/image-resizer#readme"
+}
